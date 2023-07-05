@@ -182,3 +182,7 @@ table td {
 table tr:nth-child(even) {
     background-color: #f9f9f9;
 }
+
+.card-text {
+    list-style-type: none;
+}
